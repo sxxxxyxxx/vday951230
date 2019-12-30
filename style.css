@@ -1,0 +1,37 @@
+a{
+	color:black;
+	text-decoration:none;}
+h1{
+	border-bottom:1px solid black;
+	padding-bottom:10px;
+	margin-bottom:0px;
+	background-color:
+}
+img{
+	width:100%;
+	display:block;
+	height:auto;
+}
+h2{
+	color:white;
+	text-align:center;
+	font-family:serif;
+	font-size:32px;
+	margin-top:135px;
+}
+p{
+	text-align:center;
+	color:white;
+}
+.wrap{
+	position: relative;
+}
+.text{
+	position: absolute;
+	top: 15%;
+	left:30%;
+}
+.button{
+	margin-left:160px;
+	font-size:15px;
+}
